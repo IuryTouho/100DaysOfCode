@@ -1,0 +1,49 @@
+familia =["Iury","Vitor","cameron","Iury"]
+idades =[11,7,14,6,25]
+letras = ["C","A","Q","H"]
+
+#Cria um ponteiro para está variavel, mudar uma altera a outra
+familia2 = familia
+
+#Cria uma nova lista igual a antiga, uma idependente da outra
+familia3 = familia.copy
+print(familia3)
+
+
+# Tuples são listas que não podem ser mudadas, são constantes
+coordenadas = (25,-45)
+
+# Dicionarios são indexados por strings
+
+ficha = {"nome":"iury","idade":24}
+
+print(ficha["nome"])
+
+# O metodo get é o mais seguro pois se for dito um index que não existe pode ocorrer erro
+print(ficha.get("nome","não especificado"))
+print(ficha.get("ano","não especificado"))
+
+# Adicionar novo elemento
+
+ficha["ano"] = 1999
+
+print(ficha["ano"])
+
+#print(idades)
+#idades.sort()
+#print(idades)
+
+#print(letras)
+#letras.sort()
+#print(letras)
+#letras.reverse()
+#print(letras)
+
+#print(familia)
+
+#print(familia.index("Vitor"))
+#print(familia.count("Iury"))
+
+#familia.clear()
+
+#print(familia)

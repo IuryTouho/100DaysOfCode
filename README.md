@@ -5,10 +5,10 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 ### Base
 - [x] Tipos de dados
 - [x] Operações Basicas
-- [ ] Comparações e condições
-- [ ] Listas(Listas, dicionarios, tuplas, iterables)
+- [x] Comparações e condições
+- [x] Listas(Listas, dicionarios, tuplas, iterables)
 - [ ] Estruturas de repetição(for, while)
-- [ ] Funções
+- [x] Funções
 - [ ] Integração de python com (txt, excel, pdf, Json)
 - [ ] Pacotes, bibliotecas/modulos
 - [ ] Classes e orientação a objeto
