@@ -6,14 +6,17 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [x] Tipos de dados
 - [x] Operações Basicas
 - [x] Comparações e condições
-- [x] Listas(Listas, dicionarios, tuplas, iterables)
-- [ ] Estruturas de repetição(for, while)
+- [x] Listas(Listas, dicionarios, tuplas, iterables, sets)
+- [x] Estruturas de repetição(for, while)
 - [x] Funções
-- [ ] Integração de python com (txt, excel, pdf, Json)
+- [ ] Integração de python com txt
+- [ ] Integração de python com excel
+- [ ] Integração de python com pdf
+- [ ] Integração de python com Json
 - [ ] Pacotes, bibliotecas/modulos
 - [ ] Classes e orientação a objeto
 - [ ] Ambientes virtuais
-- [ ] Tratamento de erros
+- [x] Tratamento de erros
 - [ ] Acesso a banco de dados
 ### Ferramentas
 - [ ] Query Builder
