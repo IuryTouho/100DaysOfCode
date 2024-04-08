@@ -4,3 +4,6 @@ html
 css
 javascript
 vb6
+SQL
+SQL
+SQL
