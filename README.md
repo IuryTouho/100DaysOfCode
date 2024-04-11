@@ -9,12 +9,12 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [x] Listas(Listas, dicionarios, tuplas, iterables, sets)
 - [x] Estruturas de repetição(for, while)
 - [x] Funções
-- [ ] Integração de python com txt
+- [x] Integração de python com txt
 - [ ] Integração de python com excel
 - [ ] Integração de python com pdf
 - [ ] Integração de python com Json
-- [ ] Pacotes, bibliotecas/modulos
-- [ ] Classes e orientação a objeto
+- [x] Pacotes, bibliotecas/modulos
+- [x] Classes e orientação a objeto
 - [ ] Ambientes virtuais
 - [x] Tratamento de erros
 - [ ] Acesso a banco de dados
@@ -22,5 +22,15 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [ ] Query Builder
 - [ ] Design Partterns
 - [ ] Tipagem
-- [ ] Pandas e Numpy
-### 
+### Bot
+- [x] Bot Telegram
+- [ ] Bot Line
+- [ ] Bot Discord
+### Web
+- [ ] Django(API)
+- [ ] Flask(API)
+### Automação
+- [ ] Selenium
+### Analise de dados
+- [ ] Pandas
+- [ ] Numpy
