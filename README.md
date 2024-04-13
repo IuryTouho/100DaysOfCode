@@ -10,9 +10,9 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [x] Estruturas de repetição(for, while)
 - [x] Funções
 - [x] Integração de python com txt
-- [ ] Integração de python com excel
-- [ ] Integração de python com pdf
-- [ ] Integração de python com Json
+- [x] Integração de python com excel
+- [x] Integração de python com pdf
+- [x] Integração de python com Json
 - [x] Pacotes, bibliotecas/modulos
 - [x] Classes e orientação a objeto
 - [ ] Ambientes virtuais
