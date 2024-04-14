@@ -17,7 +17,7 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [x] Classes e orientação a objeto
 - [ ] Ambientes virtuais
 - [x] Tratamento de erros
-- [ ] Acesso a banco de dados
+- [x] Acesso a banco de dados
 ### Ferramentas
 - [ ] Query Builder
 - [ ] Design Partterns
