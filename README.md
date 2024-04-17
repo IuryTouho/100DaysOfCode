@@ -15,11 +15,11 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 - [x] Integração de python com Json
 - [x] Pacotes, bibliotecas/modulos
 - [x] Classes e orientação a objeto
-- [ ] Ambientes virtuais
 - [x] Tratamento de erros
 - [x] Acesso a banco de dados
 ### Ferramentas
-- [ ] Query Builder
+- [x] Query Builder(Pypika)
+- [x] ORM (SQLAlchemy)
 - [ ] Design Partterns
 - [ ] Tipagem
 ### Bot
