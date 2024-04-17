@@ -14,7 +14,7 @@ session = Session()
 
 print(engine)
 
-class Usuarios(Base):
+class Usuarios(Base):   
     _tablename_ = "usuarios"
 
     id = Column(String, primary_key=True)
