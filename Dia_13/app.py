@@ -17,7 +17,7 @@ try:
     #db.conn.commit()
     #Para Selects
     #cursor.execute(query)
-    results = cursor.fetchall()
+    results = cursor.fetchall() 
     print(results)
 
     db.conn.close()
