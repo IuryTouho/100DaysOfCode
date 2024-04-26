@@ -20,17 +20,16 @@ Repositório onde ficará meu código do meu desafio de 100 dias programando em 
 ### Ferramentas
 - [x] Query Builder(Pypika)
 - [x] ORM (SQLAlchemy)
-- [ ] Design Partterns
-- [ ] Tipagem
 ### Bot
 - [x] Bot Telegram
-- [ ] Bot Line
-- [ ] Bot Discord
+- [x] Bot Discord
 ### Web
-- [ ] Django(API)
-- [ ] Flask(API)
+- [x] Django(API)
+- [x] Flask(API)
 ### Automação
-- [ ] Selenium
+- [x] Selenium
 ### Analise de dados
-- [ ] Pandas
+- [x] Pandas
 - [ ] Numpy
+### Interface
+- [ ] Kivy
