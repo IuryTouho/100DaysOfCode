@@ -4,14 +4,17 @@
 [ext_resource type="PackedScene" uid="uid://dwedsm5qn7tjp" path="res://tree.tscn" id="2_4ux0k"]
 
 [node name="Game" type="Node2D"]
+y_sort_enabled = true
 scale = Vector2(1.04289, 1.032)
 
 [node name="ColorRect" type="ColorRect" parent="."]
-offset_right = 1917.0
-offset_bottom = 1081.0
+offset_left = 3.8355
+offset_top = 4.84496
+offset_right = 1920.84
+offset_bottom = 1085.84
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("1_y47e7")]
-position = Vector2(804, 426)
+position = Vector2(1070.1, 627.907)
 
 [node name="Tree" parent="." instance=ExtResource("2_4ux0k")]
 position = Vector2(204, 248)
@@ -20,7 +23,7 @@ position = Vector2(204, 248)
 position = Vector2(282, 832)
 
 [node name="Tree3" parent="." instance=ExtResource("2_4ux0k")]
-position = Vector2(1018, 681)
+position = Vector2(1071.06, 578.488)
 
 [node name="Tree4" parent="." instance=ExtResource("2_4ux0k")]
 position = Vector2(1408, 238)
