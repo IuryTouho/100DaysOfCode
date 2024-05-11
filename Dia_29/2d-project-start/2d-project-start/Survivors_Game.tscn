@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://ckun5n0xskq1n"]
+[gd_scene load_steps=4 format=3 uid="uid://ckun5n0xskq1n"]
 
 [ext_resource type="PackedScene" uid="uid://b4a7i6m7nxbqy" path="res://player.tscn" id="1_y47e7"]
 [ext_resource type="PackedScene" uid="uid://dwedsm5qn7tjp" path="res://tree.tscn" id="2_4ux0k"]
+[ext_resource type="PackedScene" uid="uid://cmuw02emfkdgq" path="res://mob.tscn" id="2_neh8g"]
 
 [node name="Game" type="Node2D"]
 y_sort_enabled = true
@@ -15,6 +16,9 @@ offset_bottom = 1085.84
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("1_y47e7")]
 position = Vector2(1070.1, 627.907)
+
+[node name="Mob" parent="." instance=ExtResource("2_neh8g")]
+position = Vector2(642.446, 494.186)
 
 [node name="Tree" parent="." instance=ExtResource("2_4ux0k")]
 position = Vector2(204, 248)
