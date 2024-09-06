@@ -8,10 +8,8 @@ app.config['JSON_SORT_KEYS'] = False
 @app.route('/carros',methods=['GET'])
 def get_carros():
     return make_response(
-        #jsonify(Carros)
-        mensagem='lista de carros.',
-        dados=Carros 
-    ) 
+        jsonify(Carros)
+    )
 
 @app.route('/carros',methods=['POST'])
 def create_carros():
